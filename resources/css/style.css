@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&display=swap");
+
+
+.ewq {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.qwe {
+    width: 1200px;
+}
+.p {
+    word-wrap: break-word;
+}
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    width: 1200px;
+}
+
+.navbar-brand {
+    margin-left: 30px;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.collapse {
+    display: flex;
+    justify-content: center;
+    /* font-family: "Roboto",
+    sans-serif;
+    font-size: 17px;
+    font-style: medium;
+    font-weight: 500; */
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.l {
+    text-decoration: none;
+    color: black;
+    size: 30px;
+}
+
+.g {
+    text-decoration: none;
+    color: black;
+}
+
+.n {
+    text-decoration: none;
+    color: black;
+}
+
+.i {
+    text-decoration: none;
+    color: black;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.row {
+    width: 1200px;
+}
+
+/* .foot1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1200px;
+}
+
+.foot2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    width: 1200px;
+}
+
+.foot3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    width: 600px;
+}
+.foot4 {
+    vertical-align: middle;
+} */
+.working_hours {
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    margin-bottom: 30px;
+}
+.contact_data {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.video {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.video_2 {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.sub_video {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1200px;
+}
+
+.youtube_text {
+    width: 500px;
+}
+
+.cont_doc_top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.cont_mass_top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.cont_doctor {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1200px;
+}
+
+.cont_doctor2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 900px;
+}
+
+.carousel-item {
+    margin-bottom: 50px;
+    object-fit: cover;
+    vertical-align: middle;
+    border-style: none;
+    transition: transform 2s ease,
+        opacity .2s ease-out;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 70px;
+    width: 70px;
+}
+
+.carus {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.carousel {
+    max-width: 1200px;
+}
+
+.w_h {
+    margin-bottom: 30px;
+}
+.card-img-top {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.card {
+    background-color: rgb(211, 245, 239);
+    border-radius: 20px;
+    box-shadow: 0 0 5px 5px rgba(194, 195, 196, 0.5)
+}
+.btn {
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-bottom: auto;
+}
+.page_fix {
+    background-color: #F5F5F5;
+    background-image: url(/public/img/back1.jpg);
+    background-size: cover;
+}
+.col-sm {
+    margin-left: auto;
+    margin-right: auto;
+}
